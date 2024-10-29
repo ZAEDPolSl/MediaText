@@ -26,7 +26,7 @@ Please cite the related works in your publications if it helps your research:
 
 ``` 
 @inproceedings{inproceedings,
-author = {Kalisz, Seweryn and Marczyk, Michał and Polanska, Joanna},
+author = {Kalisz, Seweryn and Marczyk, Michał and Fagas, Rafał and Polanska, Joanna},
 booktitle = {Modelling and simulation 2024. The 2024 European Simulation and Modelling Conference}
 editor = {Manuel Graña; J. David Nuñez-Gonzalez}
 year = {2024},
